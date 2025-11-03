@@ -1,0 +1,33 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="0" folder="/" startCamPosY="-475" zoom="1.2" name="irida">
+	<sprite x="-500" y="-1200" sprite="stages/jimmy/plush/da_skyy" alpha="1" scale="1" name="bg"/>
+	<sprite x="-500" y="-1200" sprite="stages/jimmy/plush/city" alpha="1" scale="1" scrollx = "0.5" name="city"/>
+	<sprite x="-500" y="-1200" sprite="stages/jimmy/plush/the_couch" alpha="1"  name="couch"/>
+	<sprite x="-800" y="-2000" sprite="stages/jimmy/plush/rose" alpha="1"  scale="0.8" scrollx="1.4" name="rose2"/>
+	<sprite x="-500" y="-1200" sprite="stages/jimmy/plush/cat_pino" alpha="1" name="catpiano"/>
+	<sprite x="0" y="0" sprite="white" alpha="0" name="white" scrollx="0" scrolly="0"/>
+
+	<sprite x="100" y="-2000" sprite="stages/jimmy/real/bg" alpha="0"  scale="3.2" scrollx="0" name="bg2"/>
+    <sprite x="-850" y="-1900" sprite="stages/jimmy/real/path" alpha="0"  scale="1.6" scrollx="0" name="path"/>
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/real/glow" alpha="0"  scale="1.6" scrollx="0" name="glow"/>
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/real/dead rose" alpha="0" scale="1.6" scrollx="0.2" name="rose"/>
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/real/wires" alpha="0" scrollx="0.6" scale="1.6" name="wire"/>
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/real/fg" alpha="0" scale="1.6" scrollx="0.8" name="fg"/>
+    <sprite x="-850" y="-1900" sprite="stages/jimmy/real/catpiano" alpha="0"  scale="1.6" name="catpiano2"/>
+
+
+    <sprite x="-850" y="-1900" sprite="stages/jimmy/animated/room" alpha="0" name="room"/>
+	<boyfriend/>
+	<opponent/>
+
+
+	<sprite x="-500" y="-1200" sprite="stages/jimmy/plush/wire" alpha="1" scrollx="1.2" name="puppetwire"/>
+    <sprite x="-850" y="-1900" sprite="stages/jimmy/real/wires2" alpha="0" scale="1.6" scrollx="1.2"  name="wire2"/>
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/animated/tv" alpha="0" scrollx="1.2" name="tv"/>
+
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/real/darkness" alpha="0" scale = "1.6" name="darkness3"/>
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/real/light purple" alpha="0" scale = "1.6" name="darkness2"/>
+	<sprite x="-850" y="-1900" sprite="stages/jimmy/real/dark purple" alpha="0" scale = "1.6" name="darkness1"/>
+	<sprite x="0" y="0" sprite="stages/jimmy/real/flare" alpha="0" scale = "0.67" name="flare"/>
+
+</stage>

@@ -1,0 +1,19 @@
+{
+	"params": [
+        {
+            "name": "Camera Zoom Value",
+            "type": "String",
+            "defaultValue": 0.5
+        },
+        {
+            "name": "Duration\n\nhow long the tween will be in steps ",
+            "type": "Int(1,3200,0.01,3)",
+            "defaultValue": 4
+        },
+        {
+            "name": "Ease Type",
+            "type": "String",
+            "defaultValue": "expoOut"
+        }
+    ]
+}

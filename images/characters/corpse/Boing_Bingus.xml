@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Boing_Bingus.png" width="4781" height="1828" spritePadding="3" borderPadding="1">
+	<SubTexture name="Bingus_Idle0000" x="3042" y="897" width="563" height="916" frameX="-714" frameY="-977" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0001" x="3042" y="897" width="563" height="916" frameX="-714" frameY="-977" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0002" x="3608" y="897" width="566" height="904" frameX="-716" frameY="-974" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0003" x="3608" y="897" width="566" height="904" frameX="-716" frameY="-974" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0004" x="1316" y="897" width="566" height="930" frameX="-745" frameY="-989" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0005" x="1316" y="897" width="566" height="930" frameX="-745" frameY="-989" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0006" x="1885" y="897" width="577" height="897" frameX="-737" frameY="-1023" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0007" x="1885" y="897" width="577" height="897" frameX="-737" frameY="-1023" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0008" x="4177" y="897" width="561" height="871" frameX="-737" frameY="-1049" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0009" x="4177" y="897" width="561" height="871" frameX="-737" frameY="-1049" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0010" x="4177" y="897" width="561" height="871" frameX="-737" frameY="-1049" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0011" x="2465" y="897" width="574" height="900" frameX="-704" frameY="-1011" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0012" x="2465" y="897" width="574" height="900" frameX="-704" frameY="-1011" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Bingus_Idle0013" x="2465" y="897" width="574" height="900" frameX="-704" frameY="-1011" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Down0000" x="1693" y="1" width="812" height="841" rotated="true" frameX="-597" frameY="-1082" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Down0001" x="1693" y="1" width="812" height="841" rotated="true" frameX="-597" frameY="-1082" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Down0002" x="3265" y="1" width="770" height="857" frameX="-627" frameY="-1036" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Down0003" x="3265" y="1" width="770" height="857" frameX="-627" frameY="-1036" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Down0004" x="3265" y="1" width="770" height="857" frameX="-627" frameY="-1036" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Down0005" x="3265" y="1" width="770" height="857" frameX="-627" frameY="-1036" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Left0000" x="838" y="1" width="852" height="864" frameX="-268" frameY="-934" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Left0001" x="838" y="1" width="852" height="864" frameX="-268" frameY="-934" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Left0002" x="1" y="1" width="834" height="883" frameX="-302" frameY="-940" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Left0003" x="1" y="1" width="834" height="883" frameX="-302" frameY="-940" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Left0004" x="1" y="1" width="834" height="883" frameX="-302" frameY="-940" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Left0005" x="1" y="1" width="834" height="883" frameX="-302" frameY="-940" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Right0000" x="4038" y="1" width="742" height="881" frameX="-891" frameY="-964" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Right0001" x="4038" y="1" width="742" height="881" frameX="-891" frameY="-964" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Right0002" x="2508" y="1" width="754" height="893" frameX="-868" frameY="-992" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Right0003" x="2508" y="1" width="754" height="893" frameX="-868" frameY="-992" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Right0004" x="2508" y="1" width="754" height="893" frameX="-868" frameY="-992" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Right0005" x="2508" y="1" width="754" height="893" frameX="-868" frameY="-992" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Up0000" x="665" y="897" width="648" height="822" frameX="-792" frameY="-906" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Up0001" x="665" y="897" width="648" height="822" frameX="-792" frameY="-906" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Up0002" x="1" y="897" width="661" height="824" frameX="-807" frameY="-925" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Up0003" x="1" y="897" width="661" height="824" frameX="-807" frameY="-925" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Up0004" x="1" y="897" width="661" height="824" frameX="-807" frameY="-925" frameWidth="1920" frameHeight="1920"/>
+	<SubTexture name="Up0005" x="1" y="897" width="661" height="824" frameX="-807" frameY="-925" frameWidth="1920" frameHeight="1920"/>
+</TextureAtlas>

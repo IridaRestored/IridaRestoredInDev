@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "pp",
+	"parsedColor": -9540500,
+	"coopAllowed": true,
+	"name": "revenant",
+	"color": "#6E6C6C",
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Revenant",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 160
+}

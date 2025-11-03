@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="0" folder="/" startCamPosY="-475" zoom="0.5" name="revenant">
+    <sprite x="-900" y="-1000" sprite="stages/revenant/stove" scale="1.2"  name="stove"/>
+	<sprite x="-900" y="-1000" sprite="stages/revenant/bg" scale="1.2"  name="bg"/>
+	<sprite x="-900" y="-1000" sprite="stages/revenant/oven" scale="1.2" name="oven"/>
+	<combo x="450" y="50" scale = "2"/>
+</stage>

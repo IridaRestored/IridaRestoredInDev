@@ -1,0 +1,5 @@
+<!DOCTYPE codename-mod-options>
+<!-- TEMPLATE FOR CUSTOM OPTIONS!!! -->
+<menu name="Irida Options" desc="Modify options related to irida here">
+	<checkbox id="windowstuff" name="Disable Forced Fullscreen" desc="Enable/Disable if the game zooms into fullscreen upon loading a song" />
+</menu>

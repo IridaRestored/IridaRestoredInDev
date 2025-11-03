@@ -1,0 +1,97 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosY="-475" folder="stages/execretion/" zoom="0.4" name="execretion">
+	<sprite scrolly="0.1" x="-1350" y="-630" sprite="normal/bg" scale="1.2" scrollx="0.1" name="nbg"/>
+	<sprite x="-1300" sprite="normal/sun" y="-100" scale="1.2" name="nsun" scroll="0.11"/>
+	<sprite x="-1300" sprite="normal/light" y="-100" scale="1.2" name="nlight" scroll="0.11"/>
+	<sprite scrolly="0.15" x="-490" y="-465" sprite="normal/cloud1" scale="1.2" scrollx="0.15" name="ncloud1"/>
+	<sprite scrolly="0.2" x="-1363" y="125" sprite="normal/sea" scale="1.2" scrollx="0.2" name="sea"/>
+	<sprite scrolly="0.3" x="1065" y="-805" sprite="normal/cloud2" scale="1.2" scrollx="0.3" name="ncloud2"/>
+	<sprite scrolly="0.32" x="-1835" y="-835" sprite="normal/cloud3" scale="1.2" scrollx="0.32" name="ncloud3"/>
+	<sprite scrolly="0.7" x="610" y="-290" sprite="normal/pipe1" scale="1.2" scrollx="0.7" name="npipe1"/>
+	<sprite scrolly="0.4" x="-70" y="165" sprite="normal/pipe3" scale="1.2" scrollx="0.4" name="npipe3"/>
+	<sprite scrolly="0.6" x="1510" y="-365" sprite="normal/block4" scale="1.2" scrollx="0.6" name="nblock4"/>
+	<sprite scrolly="0.5" x="75" y="-505" sprite="normal/blocks" scale="1.2" scrollx="0.5" name="nblock"/>
+	<sprite scrolly="0.75" x="1035" y="-170" sprite="normal/block2" scale="1.2" scrollx="0.75" name="nblock2"/>
+	<sprite scrolly="0.65" x="-1080" y="-530" sprite="normal/block3" scale="1.2" scrollx="0.65" name="nblock3"/>
+	<sprite scrolly="0.75" x="-1490" y="-200" sprite="normal/block1" scale="1.2" scrollx="0.75" name="nblock1"/>
+	<sprite x="-2000" y="10" sprite="normal/floor" scale="1.2" name="nfloor"/>
+
+	<sprite scrolly="0.2" x="-1413" y="-560" sprite="poop/bg" alpha="0" scale="1.2" scrollx="0.2" name="bg"/>
+	<sprite scrolly="0.2" x="-1428" y="-572" sprite="poop/light" alpha="0" scale="1.2" scrollx="0.2" name="light"/>
+	<sprite scrolly="0.45" x="1590" y="-600" sprite="poop/cliff" alpha="0" scale="1.2" scrollx="0.45" name="cliff"/>
+	<sprite scrolly="0.45" x="-1500" y="-860" sprite="poop/waterfall2" alpha="0" scale="1.2" scrollx="0.45" name="waterfall2"/>
+	<sprite scrolly="0.65" x="-910" y="-530" sprite="poop/debris" alpha="0" scale="1.2" scrollx="0.65" name="debris"/>
+	<sprite scrolly="0.75" x="-1310" y="-325" sprite="poop/debris2" alpha="0" scale="1.2" scrollx="0.75" name="debris2"/>
+	<sprite scrolly="0.75" x="1425" y="-200" sprite="poop/debris3" alpha="0" scale="1.2" scrollx="0.75" name="debris3"/>
+	<sprite scrolly="0.4" x="170" y="290" sprite="poop/pipe" alpha="0" scale="1.2" scrollx="0.4" name="pipe"/>
+	<sprite scrolly="0.52" x="-65" y="-335" sprite="poop/block1" alpha="0" scale="1.2" scrollx="0.52" name="block1"/>
+	<sprite scrolly="0.5" x="660" y="-285" sprite="poop/block2" alpha="0" scale="1.2" scrollx="0.5" name="block2"/>
+	<sprite scrolly="0.7" x="785" y="-490" sprite="poop/ppspritesheet" alpha="0" scale="1.2" scrollx="0.7" name="plant"/>
+	<sprite x="-2000" y="-250" sprite="poop/floor" scale="1.2" alpha="0" name="floor"/>
+	<sprite x="-1995" y="-1195" sprite="poop/waterfall1" scale="1.2" alpha="0" name="waterfall1"/>
+
+	<combo x="250" scale="2" y="-350"/>
+	<sprite x="-2000" y="-1400" sprite="moses/black" scale="1.2" alpha="0" name="black"/>
+	<sprite x="-2200" y="-1400" sprite="moses/blend" scale="1.2" alpha="0" scrollx="1.1" name="blend"/>
+	<sprite x="-2100" y="-1400" sprite="moses/sun" scale="1.2" alpha="0" scrollx="1.05" name="sun"/>
+	<sprite x="-2200" y="-1400" sprite="moses/clouds" scale="1.2" alpha="0" scrollx="1.1" name="clouds"/>
+	<sprite x="-2000" y="-1400" sprite="moses/land" scale="1.2" alpha="0" name="land"/>
+	
+	<sprite x="-2000" y="-1400" sprite="moses/wave" scale="1.2" alpha="0" type="looping" name="wave">
+		
+		
+		
+		
+		<anim loop="true" name="wave" anim="wave" fps="12"/>
+	</sprite>
+
+
+	<sprite x="-2000" y="-1400" sprite="moses/rocks" scale="1.2" alpha="0" name="rocks"/>
+	<sprite x="-2000" y="-2000" sprite="castle/thesky" scale="1" alpha="0" scrollx="0.9" name="thesky"/>
+	<sprite x="-2000" y="-2000" sprite="castle/back" scale="1" alpha="0" scrollx="0.95" name="back"/>
+	<sprite x="-2000" y="-2000" sprite="castle/wall" scale="1" alpha="0" name="wall"/>
+	<sprite x="-2000" y="-2000" sprite="castle/fort" scale="1" alpha="0" name="fort"/>
+	<sprite x="-2000" y="-2000" sprite="castle/fort_light" scale="1" alpha="0" name="fort_light"/>
+	<sprite x="-2000" y="-2000" sprite="castle/flag2" scale="1" alpha="0" type="looping" name="flag2">
+		
+		
+		
+		
+		
+		
+		<anim loop="true" name="flag2" anim="flag2" fps="12"/>
+		
+		
+		
+	
+	
+	
+	</sprite>
+	<sprite x="-2000" y="-2000" sprite="castle/pillars" scale="1" alpha="0" name="pillars"/>
+	<sprite x="-2000" y="-2000" sprite="castle/statue" scale="1" alpha="0" name="statue"/>
+	<sprite x="-2000" y="-2000" sprite="castle/window_pillars" scale="1" alpha="0" name="window_pillars"/>
+	<sprite x="-2000" y="-2000" sprite="castle/window_light" scale="1" alpha="0" name="window_light"/>
+	<sprite x="-2000" y="-2000" sprite="castle/sign" scale="1" alpha="0" name="sign"/>
+	<sprite x="-2000" y="-2000" sprite="castle/base" scale="1" alpha="0" name="base"/>
+	<sprite x="-2000" y="-2000" sprite="castle/flag" scale="1" alpha="0" type="looping" name="flag">
+		
+		
+		
+		
+		
+		
+		<anim loop="true" name="flag" anim="flag" fps="12"/>
+		
+		
+		
+	
+	
+	
+	</sprite>
+	<boyfriend x="650" y="-520"/>
+	<opponent x="-650" scale="1.2" y="-480"/>
+
+	<sprite scrolly="1.2" x="-925" y="-95" sprite="poop/fg" alpha="0" scale="1.2" scrollx="1.2" name="fg"/>
+	<sprite x="1195" scrolly="1.2" sprite="normal/pipe2" y="25" scale="1.2" name="npipe2" scrollx="1.2"/>
+	<sprite x="-2000" y="-2000" sprite="castle/fence" scale="1" alpha="0" name="fence"/>
+</stage>

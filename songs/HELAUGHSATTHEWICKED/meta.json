@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 150,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7179779,
+	"displayName": "tcimm",
+	"icon": "dad",
+	"name": "HELAUGHSATTHEWICKED",
+	"color": "#9271FD",
+	"customValues": {}
+}

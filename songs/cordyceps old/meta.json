@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "flowerboy",
+	"difficulties": [
+		"HARD"
+	],
+	"parsedColor": -7208860,
+	"customValues": {},
+	"color": "#920064",
+	"name": "cordyceps old",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "cordyceps old",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 190
+}

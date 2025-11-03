@@ -1,0 +1,42 @@
+subtitles.hx________PACKSEP________import flixel.text.FlxText.FlxTextBorderStyle;
+
+var subtitle:FunkinText;
+function create()
+{
+    subtitle = new FunkinText(50, FlxG.height - 165, 1280, "", 30, true);
+    subtitle.setFormat(Paths.font("vcr.ttf"), 27 , FlxColor.WHITE, "center");
+    subtitle.screenCenter(FlxAxes.X);
+    subtitle.camera = camHUD;
+    subtitle.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 1);
+    add(subtitle);
+}
+
+function onEvent(e)
+{
+    if(e.event.name == "subtitles")
+    {
+        if (e.event.params[0] == "")
+        {
+            FlxTween.tween(subtitle, {alpha:0 }, 0.5);
+        }
+        else
+        {
+        subtitle.alpha = 1;
+        subtitle.text = Std.string(e.event.params[0]);
+        subtitle.color = e.event.params[1];
+        }
+    }
+}________PACKSEP________{
+    "params":[
+        {
+            "name": "Text",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Color",
+            "type": "ColorWheel",
+            "defaultValue": "#FFFFFF"
+        }
+    ]
+}________PACKSEP________iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAIRJREFUOI2lkksSwCAIQxOn978yXRQ7ElD7ycYZeQgSiCjzk8Wdigk0u1gyxO77kO1MGyGSIAlPSFk97gkAYG1WoXrEzKBdthlQfnrSQQk81fEGHrvrX+DCpp2yjRUwKcAE6fCGXVjF0HSBdMqaqHsSXFBwpdLGLyof2C0UxEb8GeJvG08jfFwVrylUaQAAAABJRU5ErkJggg==

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/evil john/" zoom="1.1">
+	<sprite x="-1213" y="-560" sprite="bg" alpha="1" scale="0.7" scroll="0.1" name="bg"/>
+	
+	<sprite x="50" y="-5" sprite="Cardiograph" alpha="1" scale="0.668" name="cardiograph"/>
+	<sprite x="-322" y="-179" sprite="HUD" alpha="1" scale="0.668" name="hud"/>
+	<sprite x="250" y="-5" sprite="Conditions" alpha="1" scale="0.668"  name="conditions"/>
+
+
+    <combo x="-20000" y="150" scale="0.1"/>
+	<dad x="-160" y="200"/>
+	<boyfriend x="-930" y="-473"/>
+</stage>

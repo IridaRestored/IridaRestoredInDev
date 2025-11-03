@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Animated_Jeffy.png" width="4902" height="4500">
+	<SubTexture name="Down0000" x="1037" y="3679" width="510" height="820" frameX="-71" frameY="-93" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0001" x="1037" y="3679" width="510" height="820" frameX="-71" frameY="-93" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0002" x="3353" y="1731" width="497" height="850" frameX="-67" frameY="-65" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0003" x="3353" y="1731" width="497" height="850" frameX="-67" frameY="-65" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0004" x="4404" y="865" width="497" height="860" frameX="-65" frameY="-55" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0005" x="4404" y="865" width="497" height="860" frameX="-65" frameY="-55" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0006" x="2969" y="867" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0007" x="2969" y="867" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0008" x="2969" y="867" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Down0009" x="2969" y="867" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Idle0000" x="3039" y="3521" width="494" height="855" frameX="-50" frameY="-57" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0001" x="3039" y="3521" width="494" height="855" frameX="-50" frameY="-57" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0002" x="3039" y="3521" width="494" height="855" frameX="-50" frameY="-57" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0003" x="2538" y="3521" width="498" height="859" frameX="-43" frameY="-55" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0004" x="2538" y="3521" width="498" height="859" frameX="-43" frameY="-55" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0005" x="2044" y="1777" width="499" height="875" frameX="-42" frameY="-39" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0006" x="2044" y="1777" width="499" height="875" frameX="-42" frameY="-39" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0007" x="2043" y="2722" width="492" height="881" frameX="-49" frameY="-33" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0008" x="2043" y="2722" width="492" height="881" frameX="-49" frameY="-33" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0009" x="1550" y="2790" width="490" height="885" frameX="-51" frameY="-29" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0010" x="1550" y="2790" width="490" height="885" frameX="-51" frameY="-29" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0011" x="1807" y="1" width="488" height="886" frameX="-53" frameY="-28" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0012" x="1807" y="1" width="488" height="886" frameX="-53" frameY="-28" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Idle0013" x="1552" y="1835" width="489" height="884" frameX="-52" frameY="-30" frameWidth="544" frameHeight="914"/>
+	<SubTexture name="Left0000" x="2790" y="1" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0001" x="2790" y="1" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0002" x="3597" y="1" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0003" x="3597" y="1" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0004" x="2538" y="2655" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0005" x="2538" y="2655" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0006" x="2546" y="1766" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0007" x="2546" y="1766" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0008" x="2546" y="1766" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Left0009" x="2546" y="1766" width="804" height="863" frameX="-33" frameY="-39" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Right0000" x="773" y="946" width="638" height="928" frameX="-8" frameY="-16" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Right0001" x="773" y="946" width="638" height="928" frameX="-8" frameY="-16" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Right0002" x="1166" y="1" width="638" height="928" frameX="-8" frameY="-16" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Right0003" x="1166" y="1" width="638" height="928" frameX="-8" frameY="-16" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Right0004" x="395" y="2828" width="639" height="928" frameX="-7" frameY="-16" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Right0005" x="395" y="2828" width="639" height="928" frameX="-7" frameY="-16" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Right0006" x="395" y="1895" width="639" height="930" frameX="-7" frameY="-14" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Right0007" x="395" y="1895" width="639" height="930" frameX="-7" frameY="-14" frameWidth="647" frameHeight="945"/>
+	<SubTexture name="Up0000" x="1" y="983" width="372" height="979" frameX="-1329" frameY="-66" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Up0001" x="1" y="983" width="372" height="979" frameX="-1329" frameY="-66" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Up0002" x="770" y="1" width="393" height="942" frameX="-1320" frameY="-102" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Up0003" x="770" y="1" width="393" height="942" frameX="-1320" frameY="-102" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Up0004" x="376" y="1" width="391" height="946" frameX="-1315" frameY="-98" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Up0005" x="376" y="1" width="391" height="946" frameX="-1315" frameY="-98" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Up0006" x="1" y="1965" width="391" height="950" frameX="-1316" frameY="-95" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Up0007" x="1" y="1965" width="391" height="950" frameX="-1316" frameY="-95" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Down0000" x="3536" y="3486" width="510" height="820" frameX="-71" frameY="-93" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0001" x="3536" y="3486" width="510" height="820" frameX="-71" frameY="-93" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0002" x="3353" y="1731" width="497" height="850" frameX="-67" frameY="-65" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0003" x="3353" y="1731" width="497" height="850" frameX="-67" frameY="-65" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0004" x="4404" y="865" width="497" height="860" frameX="-65" frameY="-55" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0005" x="4404" y="865" width="497" height="860" frameX="-65" frameY="-55" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0006" x="4404" y="1" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0007" x="4404" y="1" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0008" x="4404" y="1" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Down0009" x="4404" y="1" width="497" height="861" frameX="-66" frameY="-54" frameWidth="628" frameHeight="1005"/>
+	<SubTexture name="Jeffy Left0000" x="4102" y="2580" width="782" height="836" frameX="-34" frameY="-60" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0001" x="4102" y="2580" width="782" height="836" frameX="-34" frameY="-60" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0002" x="3469" y="867" width="758" height="850" frameX="-45" frameY="-47" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0003" x="3469" y="867" width="758" height="850" frameX="-45" frameY="-47" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0004" x="3345" y="2632" width="754" height="851" frameX="-49" frameY="-46" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0005" x="3345" y="2632" width="754" height="851" frameX="-49" frameY="-46" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0006" x="3853" y="1728" width="803" height="849" frameX="-11" frameY="-48" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0007" x="3853" y="1728" width="803" height="849" frameX="-11" frameY="-48" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0008" x="3853" y="1728" width="803" height="849" frameX="-11" frameY="-48" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Left0009" x="3853" y="1728" width="803" height="849" frameX="-11" frameY="-48" frameWidth="922" frameHeight="1020"/>
+	<SubTexture name="Jeffy Right0000" x="1414" y="932" width="537" height="900" frameX="-46" frameY="-17" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Right0001" x="1414" y="932" width="537" height="900" frameX="-46" frameY="-17" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Right0002" x="1954" y="890" width="510" height="884" frameX="-42" frameY="-23" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Right0003" x="1954" y="890" width="510" height="884" frameX="-42" frameY="-23" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Right0004" x="1037" y="2790" width="510" height="886" frameX="-34" frameY="-19" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Right0005" x="1037" y="2790" width="510" height="886" frameX="-34" frameY="-19" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Right0006" x="1037" y="1877" width="512" height="910" frameX="-31" frameY="-15" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Right0007" x="1037" y="1877" width="512" height="910" frameX="-31" frameY="-15" frameWidth="609" frameHeight="941"/>
+	<SubTexture name="Jeffy Up0000" x="1" y="1" width="372" height="979" frameX="-1329" frameY="-66" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Up0001" x="1" y="1" width="372" height="979" frameX="-1329" frameY="-66" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Up0002" x="376" y="950" width="394" height="942" frameX="-1320" frameY="-102" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Up0003" x="376" y="950" width="394" height="942" frameX="-1320" frameY="-102" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Up0004" x="1" y="2918" width="391" height="946" frameX="-1315" frameY="-98" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Up0005" x="1" y="2918" width="391" height="946" frameX="-1315" frameY="-98" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Up0006" x="1" y="1965" width="391" height="950" frameX="-1316" frameY="-95" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy Up0007" x="1" y="1965" width="391" height="950" frameX="-1316" frameY="-95" frameWidth="1779" frameHeight="1128"/>
+	<SubTexture name="Jeffy0000" x="3039" y="3521" width="494" height="855" frameX="-52" frameY="-61" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0001" x="3039" y="3521" width="494" height="855" frameX="-52" frameY="-61" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0002" x="3039" y="3521" width="494" height="855" frameX="-52" frameY="-61" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0003" x="2538" y="3521" width="498" height="859" frameX="-45" frameY="-59" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0004" x="2538" y="3521" width="498" height="859" frameX="-45" frameY="-59" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0005" x="2467" y="888" width="499" height="875" frameX="-44" frameY="-43" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0006" x="2467" y="888" width="499" height="875" frameX="-44" frameY="-43" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0007" x="2043" y="3606" width="492" height="881" frameX="-51" frameY="-37" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0008" x="2043" y="3606" width="492" height="881" frameX="-51" frameY="-37" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0009" x="1550" y="2790" width="490" height="885" frameX="-53" frameY="-33" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0010" x="1550" y="2790" width="490" height="885" frameX="-53" frameY="-33" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0011" x="1807" y="1" width="488" height="886" frameX="-55" frameY="-32" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0012" x="1807" y="1" width="488" height="886" frameX="-55" frameY="-32" frameWidth="546" frameHeight="918"/>
+	<SubTexture name="Jeffy0013" x="2298" y="1" width="489" height="884" frameX="-54" frameY="-34" frameWidth="546" frameHeight="918"/>
+</TextureAtlas>

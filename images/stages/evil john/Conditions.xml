@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Conditions.png">
+<SubTexture name="fine0000" x="0" y="0" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+<SubTexture name="fine0001" x="0" y="123" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+<SubTexture name="fine0002" x="364" y="0" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+<SubTexture name="panic0000" x="364" y="123" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+<SubTexture name="panic0001" x="0" y="246" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+<SubTexture name="panic0002" x="364" y="246" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+<SubTexture name="terminal0000" x="0" y="369" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+<SubTexture name="terminal0001" x="364" y="369" width="364" height="123" frameX="0" frameY="0" frameWidth="364" frameHeight="123" />
+</TextureAtlas>

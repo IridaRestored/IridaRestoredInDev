@@ -1,0 +1,29 @@
+{
+	"params": [
+        {
+            "name": "Camera Target",
+            "type": "StrumLine",
+            "defaultValue": 0
+        },        
+        {
+            "name": "X-offset",
+            "type": "Int(-10000,10000,0.01,3)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Y-offset",
+            "type": "Int(-10000,10000,0.01,3)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Duration\n\n how long the tween will be in steps (does nothing if the ease type is NORMAL or INSTANT) ",
+            "type": "Int(1,3200,0.01,3)",
+            "defaultValue": 4
+        },
+        {
+            "name": "Tween Type\n\nNORMAL: normal ease\nINSTANT: cuts to the current player with no tween\nAny Ease: any ease lol",
+            "type": "String",
+            "defaultValue": "NORMAL"
+        }
+    ]
+}

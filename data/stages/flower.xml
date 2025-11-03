@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="200" folder="stages/cordyceps/" startCamPosY="-275" zoom="0.46" name="flower">
+	<sprite x="-1350" y="-950" sprite="moon" alpha = "0" scale="1.5" scrollx="0.3" name="moon"/>
+	<sprite x="-1350" y="-950" sprite="outside" alpha = "0" scale="1.5" scrollx="0.3"   name="outside"/>
+	<sprite x="-1350" y="-950" sprite="fg1" alpha = "0"  scale="1.5" scrollx="1.2"  name="fg1"/>
+	<sprite x="-1350" y="-950" sprite="bg" alpha = "0" scale="1.5" name="bg"/>
+	<combo x="650" y="-150" scale = "2"/>
+	<boyfriend alpha = "0" />
+	<opponent alpha = "0" />
+	<sprite x="-1350" y="-950" sprite="fg2" alpha = "0"  scale="1.5" scrolly="1.5" name="fg2"/>
+	<sprite x="0" y="-0" sprite="blue" alpha="0" scale = "0.8" name="blue"/>
+</stage>
