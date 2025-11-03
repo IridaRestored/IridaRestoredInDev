@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="-2500" icon="rose" camx="850" camy="-300" isGF="false" color="#00E8FF" flipX="true" isPlayer="true" holdTime="12.1" scale="2" sprite="execretion/ROSE_SCARED">
+<character x="-2500" icon="rose" camx="850" camy="-300" isGF="false" color="#00E8FF" flipX="true" isPlayer="true" holdTime="12.1" scale="2" sprite="execretion/ROSE_SCARED_WHITE">
 	<anim x="0" loop="true" y="0" fps="24" anim="ROSE_POOPED" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="idle"/>
 	<anim x="-100" loop="false" y="55" fps="24" anim="ROSE_POOPED_UP" name="singUP"/>
 	<anim x="62" loop="false" y="-5" fps="24" anim="ROSE_POOPED_LEFT" name="singLEFT"/>
