@@ -136,6 +136,10 @@ function stepHit(s) {
                     iconP2.flipX = iconP1.flipX = healthBar.flipX = flip = true;
                 case 1990:
                     for (o in hudS) FlxTween.tween(o, {alpha: 1}, 10, {ease: FlxEase.expoOut});
+		case 2725:
+                    iconP2.flipX = iconP1.flipX = healthBar.flipX = flip = false;
+
+
             }
 
         case 'shucks':

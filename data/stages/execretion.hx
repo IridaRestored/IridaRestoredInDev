@@ -374,8 +374,6 @@ case 4124:
             dad.cameraOffset.set(50, 50);
             dad.scale.set(1.2, 1.2);
             boyfriend.cameraOffset.set(0, -200);
-                changeCharacter(0, 'poop warrior 2', 0);
-    changeCharacter(1, 'rose execretion', 0);
             break;
 }
 }

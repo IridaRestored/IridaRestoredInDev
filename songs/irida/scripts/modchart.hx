@@ -36,7 +36,16 @@ function stepHit(curStep:Int){
                         strumLines.members[0].visible = true;
                         strumLines.members[1].visible = true;
                         }
-                    
+		
+                case 2725:
+                    for(i in 0...4) {
+                        strumLines.members[0].members[i].x = strumLines.members[0].members[i].x - 641;
+                        strumLines.members[1].members[i].x = strumLines.members[1].members[i].x + 641;
+                        FlxTween.tween(strumLines.members[0].members[i] , {alpha: 1}, 6, {ease: FlxEase.expoOut});
+                        FlxTween.tween(strumLines.members[1].members[i] , {alpha: 1}, 6, {ease: FlxEase.expoOut});
+                        
+                        }
+
                     
         }
     }
